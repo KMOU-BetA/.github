@@ -18,6 +18,7 @@ Dacon과 Kaggle의 연습 대회를 이용한 스터디도 진행될 예정입�
       <td align="center"><a href="https://github.com/choo121600"><img src="https://avatars.githubusercontent.com/u/54111883?v=4" width="100px;" alt="YeongUk Choo"/><br /><sub><b>추영욱</b></sub></a></td>
       <td align="center"><a href="https://github.com/sjw6686"><img src="https://avatars.githubusercontent.com/u/110438213?v=4" width="100px;" alt="sjw6686"/><br /><sub><b>손진웅</b></sub></a></td>
       <td align="center"><a href="https://github.com/Easyhwan1004"><img src="https://avatars.githubusercontent.com/u/128610467?v=4" width="100px;" alt="Easyhwan1004"/><br /><sub><b>이지환</b></sub></a></td>
+      <td align="center"><a href="https://github.com/kanavia"><img src="https://avatars.githubusercontent.com/u/128970994?v=4" width="100px;" alt="kanavia"/><br /><sub><b>정현천</b></sub></a></td>
     </tr>
   </tbody>
 </table>
