@@ -19,6 +19,7 @@ Dacon과 Kaggle의 연습 대회를 이용한 AI-Competitions-Study가 진행될
       <td align="center"><a href="https://github.com/sjw6686"><img src="https://avatars.githubusercontent.com/u/110438213?v=4" width="100px;" alt="sjw6686"/><br /><sub><b>손진웅</b></sub></a></td>
       <td align="center"><a href="https://github.com/Easyhwan1004"><img src="https://avatars.githubusercontent.com/u/128610467?v=4" width="100px;" alt="Easyhwan1004"/><br /><sub><b>이지환</b></sub></a></td>
       <td align="center"><a href="https://github.com/kanavia"><img src="https://avatars.githubusercontent.com/u/128970994?v=4" width="100px;" alt="kanavia"/><br /><sub><b>정현천</b></sub></a></td>
+      <td align="center"><a href="https://github.com/sweetpotatolove"><img src="https://avatars.githubusercontent.com/u/127645249?v=4" width="100px;" alt="sweetpotatolove"/><br /><sub><b>박사랑</b></sub></a></td>
     </tr>
   </tbody>
 </table>
